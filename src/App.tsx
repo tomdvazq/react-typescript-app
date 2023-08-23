@@ -1,7 +1,11 @@
+import Counter from "./components/Counter/Counter"
+
 function App() {
   return (
     <>
-      <div>Hello World</div>
+      <h1>React + TypeScript</h1>
+      <hr/>
+      <Counter/>
     </>
   )
 }
